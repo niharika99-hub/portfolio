@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    
+</head>
+<body style="background-color: bisque;">
+    
+        <h1 style="text-align: center;">NIHARIKA VADITHYA</h1>
+        <h2 style="text-align: center;"> Computer science and engineering</h2>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <p>Hello! I'm Niharika.i'm a passionate web developer who loves creating beautiful and functional websites.</p>
+    </section>
+
+    <section id="projects" class="container">
+        <h2>Projects</h2>
+        <div class="card">
+            <h3>Projects</h3>
+            <p>Done portfoli and gallery as apart of ACM task</p>
+            <p>Joined in ACM Bridge course for 3 months</p>
+        </div>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Contact Me</h2>
+        <p>Mobile no:-8332944439</p>
+        
+        <a href="email id:-am.sc.u4cse24259@am.students.amrita.edu"> my email id:am.sc.u4cse24259@am.students.amrita.edu</p></a>
+        
+        
+    </section>
+
+
+</body>
+</html>
